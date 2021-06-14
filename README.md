@@ -98,6 +98,6 @@ In case of using this source code for your research, please cite our paper.
 
 [Wonpyo Park](mailto:wppark.pio@gmail.com)
 
-[Jongju Shin](mailto:wppark.pio@gmail.com)
+[Jongju Shin](mailto:isaac.j.shin@gmail.com)
 
 [Kakao Enterprise/Vision Team](mailto:vision.ai@kakaoenterprise.com)
